@@ -1,0 +1,11 @@
+matheus gusman:
+can you make a table with what i should do when the verb terminate with:"-s", "-sh", "-ch", "-x" or "-z", when is vowel + y, consonant +y , 
+only consonant 
+
+Absolutely! Here's a summary table that covers the different cases you mentioned for regular verbs in the present simple tense:
+
+Verb Ending				Conjugation 								Rule	Example
+-s, -sh, -ch, -x, -z		Add "-es" for third person singular					he watches TV
+Vowel + y				Add "-s" for third person singular					she plays the piano
+Consonant + y			Change "y" to "i" and add "-es" for third person singular	he studies hard
+Only consonant or vogal		Add "-s" for third person singular					he walks to work
